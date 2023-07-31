@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #fcee91;
+}
+nav,figure,ul,li{
+    display: inline;
+}
+ul,li{
+    padding: 10px;
+    background-color: #52ad83;
+    color: #66d0ff;
+}

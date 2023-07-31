@@ -1,0 +1,17 @@
+*{
+
+}
+body{
+    background-color: #fcee91;
+}
+nav,figure,ul,li{
+    display: inline;
+}
+ul,li{
+    background-color: #52ad83;
+    padding: 10px;
+    color: #66d0ff;
+}
+table{
+    background-color: aliceblue;
+}
