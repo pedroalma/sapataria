@@ -11,6 +11,7 @@ ul,li{
     background-color: #52ad83;
     padding: 10px;
     color: #66d0ff;
+    border-radius: 20px;
 }
 table{
     background-color: aliceblue;
