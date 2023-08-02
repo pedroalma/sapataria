@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #fcee91;
+   /* background-color: #fcee91;*/
+   background-color: black;
 }
 nav,figure,ul,li{
     display: inline;
